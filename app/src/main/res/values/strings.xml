@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CE482</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="edit_activity">Edit</string>
+    <string name="app_version">App Version</string>
+</resources>
